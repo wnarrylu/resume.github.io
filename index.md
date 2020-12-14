@@ -21,13 +21,21 @@ Supported arguments:
 
 ## Education
 
-### __George Washington University__ `2018.9 - Now`
+### __Stony Brook University__ `2020.9 - Now`
+```
+Stony Brook, NY
+```
+- Ph.D. in Computer Science
+- Coursework: CSE548, CSE512, CSE519.
+
+### __George Washington University__ `2018.9 - 2020.5`
 ```
 Washington, DC
 ```
 - M.S. in Statistics
 - GPA: 3.85
 - Coursework: Advanced Time Series Analysis; Mathematical Statistics; Applied Multivariate Analysis; Statistical Data Mining; Bayesian Theory (STAT6201, STAT6202, STAT6215, STAT6240, STAT6223, STAT8281)
+
 
 ### __Georgia Institute of Technology__ `2017.1 - 2017.5`
 ```
@@ -89,18 +97,6 @@ _Research Assistant_<br>
 - Read reference papers and articles of orthogonal polynomials
 - Worked out the polynomial of a given degree that is orthogonal.
 
-## Mathematical Competition
-
-### __Gaojiao Cup National Mathematical Modeling Competition__ `2016.6`
-```
-Xi'an, Shaanxi, China
-```
-- Problem A: Mooring System for Cross-sea Bridge Structure Modeling
-- Initiated a team with other two members, allocated tasks and took charge of mathematical modeling
-- Analyzed mooring system’s stress under different conditions of inclination angle, anchor chain and draught
-- Adopted infinitesimal method to solve mechanics differential equation and anchor chain state equation
-- Simulated static and dynamic mooring system with proper inclination angle and anchor chain length
-- Awarded with Third Prize of Shaanxi Province
 
 
 ## Additional Information
