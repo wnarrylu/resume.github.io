@@ -26,7 +26,7 @@ Supported arguments:
 Stony Brook, NY
 ```
 - Ph.D. in Computer Science
-- Coursework: CSE548, CSE512, CSE519.
+- Advised by Professor Ritwik Banerjee
 
 ### __George Washington University__ `2018.9 - 2020.5`
 ```
@@ -56,7 +56,14 @@ Xi'an, Shaanxi, China
 
 ## Reasearch Experience
 
-### __Research of Computer Science__  `2019.5 - Now`
+### __Research of Information Distortion__  `2021.12 - Now`
+```
+Stony Brook, NY
+```
+_Research Assistant_<br>
+- Advisor: Professor Ritwik Banerjee
+
+### __Research of Computer Science__  `2019.5 - 2020.1`
 ```
 Tallahassee, FL
 ```
